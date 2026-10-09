@@ -21,3 +21,7 @@ Creative direction also references the Codrops Creative Hub:
 https://tympanus.net/codrops/hub/
 
 No Codrops demo source or third-party JavaScript runtime is bundled. The metal material and motion are artistic approximations, not a physically validated fluid simulation.
+
+## Coursework imagery
+
+The Food Waste card uses the user-supplied “Lakeside Garden Harvest at Golden Hour” illustration. It is illustrative imagery, not a photograph of an implemented project. Other coursework cards use typographic artwork.

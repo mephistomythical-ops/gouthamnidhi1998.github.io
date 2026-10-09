@@ -2,6 +2,134 @@
 /* All project copy and links can be edited here. */
 const drive=id=>`https://drive.google.com/file/d/${id}/view?usp=sharing`;
 const projects={
+
+ "alnarp": {
+  "kicker": "COURSEWORK · FOODSCAPES 2 · INDIVIDUAL PROPOSAL",
+  "title": "Campus Alnarp — Food-Oriented Living Lab",
+  "summary": "Exploring how campus landscapes, research facilities and food initiatives could connect production, learning and well-being.",
+  "details": [
+   [
+    "The approach",
+    "Literature review, campus observations and stakeholder mapping inform proposals for connecting Alnarp’s existing food-related spaces and activities."
+   ],
+   [
+    "The proposal",
+    "Food production, conservation, education and community participation within a shared campus framework. The study considers spatial, administrative and collaborative requirements; these are proposed interventions."
+   ]
+  ],
+  "links": [
+   [
+    "Read the full report",
+    "1gqKvzLjg4SkxTq7PlmLJ-5qSeSFD7Rzt"
+   ]
+  ]
+ },
+ "billions": {
+  "kicker": "COURSEWORK · FOOD PLANNING · GROUP PROPOSAL",
+  "title": "Feeding the Billions — India Food Strategy",
+  "summary": "A group strategy linking hunger reduction, healthy diets and food-waste prevention through local food societies in India.",
+  "details": [
+   [
+    "My contribution",
+    "Stakeholder strategy, the strategic framework and implementation planning. Group authors: Sonali Basnayaka, Henaka Kulathilake, Tomas Wahlstedt and Goutham Nidhi."
+   ],
+   [
+    "The proposal",
+    "Food societies at panchayat level connect collection, redistribution, resource recovery, small enterprises and education. The 2040 horizon is an academic ambition, not adopted government policy or an implemented outcome."
+   ]
+  ],
+  "links": [
+   [
+    "Read the full report",
+    "1BFRcvPEXgW2zcJIy0vFRs7NX5yikj-tq"
+   ]
+  ]
+ },
+ "food-waste": {
+  "kicker": "COURSEWORK · URBAN AGRICULTURE · INDIVIDUAL ARTICLE",
+  "title": "Food Waste — Is Urban Agriculture a Solution?",
+  "summary": "A popular-science exploration of how growing closer to people could support waste prevention, local knowledge and nutrient cycling.",
+  "details": [
+   [
+    "The approach",
+    "Evidence on food loss and waste is brought together with examples of urban agriculture, household practices and resource recovery for a wider audience."
+   ],
+   [
+    "The perspective",
+    "Urban agriculture is one part of a broader response. Its contribution depends on scale, growing and storage practices, policy support and sustained participation. The report explores potential pathways rather than measuring a new intervention."
+   ]
+  ],
+  "links": [
+   [
+    "Read the full report",
+    "1a4THQ3_7BFb57mVUyF91roK_bt2WDiPX"
+   ]
+  ]
+ },
+ "midori": {
+  "kicker": "COURSEWORK · FOOD PLANNING · INDIVIDUAL ASSESSMENT",
+  "title": "MIDORI — A Critical Assessment",
+  "summary": "Examining Japan’s sustainable food-system strategy through technology access, stakeholder participation and the relationship between people and place.",
+  "details": [
+   [
+    "The approach",
+    "A critical assessment of the strategy’s emphasis on innovation and participation, considering adoption barriers, rural–urban relationships, cultural continuity and consumer affordability."
+   ],
+   [
+    "The argument",
+    "Practical support for producers, a meaningful community role and spatial planning could help connect national ambitions with local food systems."
+   ]
+  ],
+  "links": [
+   [
+    "Read the full report",
+    "14f5K5XaigMIALknBaY6A-XFmMQisstzY"
+   ]
+  ]
+ },
+ "terroir": {
+  "kicker": "COURSEWORK · FOODSCAPES 1 · INDIVIDUAL STUDY",
+  "title": "Terroir of Taste",
+  "summary": "Comparing Sweden and Kerala to explore how landscape, agriculture and cultural traditions shape the experience of food.",
+  "details": [
+   [
+    "The approach",
+    "Literature and examples of fruit, vegetables and dairy explore relationships between environment, food production and culinary culture across Sweden and Kerala."
+   ],
+   [
+    "The perspective",
+    "Taste connects place and cultural experience. This is a literature-based comparison, not a controlled sensory experiment."
+   ]
+  ],
+  "links": [
+   [
+    "Read the full report",
+    "10WLwi_q7uHeMZlNzLGQnWpyYQJ3SHgyo"
+   ]
+  ]
+ },
+ "tsuruoka": {
+  "kicker": "COURSEWORK · FOODSCAPES 2 · INDIVIDUAL CASE STUDY",
+  "title": "Tsuruoka — A City as a Living Lab",
+  "summary": "Reading a Japanese city’s food culture through heirloom crops, culinary knowledge, food education and community learning.",
+  "details": [
+   [
+    "The approach",
+    "A case study of crop preservation, cooking workshops and recipe archives, alongside challenges including farming succession and cultural change."
+   ],
+   [
+    "The perspective",
+    "A city-wide living lab provides an interpretive lens for shared learning and collaboration. The study does not claim a separate formal living-lab designation."
+   ]
+  ],
+  "links": [
+   [
+    "Read the full report",
+    "1RD5mfTjvvBFzY3PhMJiLUnaUq8skuCcn"
+   ]
+  ]
+ }
+,
  oats:{kicker:'KTH FOOD · RESEARCH · 2026',title:'Oats as a strategic crop',summary:'Exploring the role of oats in a more resilient Swedish food system.',details:[['The question','How could oats contribute to nutrition, domestic production and food-system resilience in Sweden?'],['My contribution','As a Research Assistant at KTH Food, I synthesised national production, climate, trade and yield data, contributed to a strategic framework, and mapped the oat-processing value chain.'],['The approach','Food-system analysis, agricultural policy review and evidence synthesis, complemented by separate production and processing scenarios.'],['The output','A national food-system scenario analysis and supporting research. The linked report presents the analysis; it is not a statement of adopted national policy.']],links:[['Read the oat strategy report','1E2MfZuNYhKjOxwzapaIa3lZCEihoQORY'],['Oat production scenarios','1jIho_CVCw2G44sYqgN2tkgGDtGOOPMaw'],['Oat processing scenarios','1xd77-jf5UZ0JvP0QbPulKdDVzjHMc6oR']]},
  lca:{kicker:'LIFE CYCLE ASSESSMENT · RESEARCH PROPOSAL',title:'Beyond the ingredient',summary:'A comparative framework for investigating the environmental impacts of oat protein.',details:[['The question','How do the carbon footprint and water use of oat protein isolate compare with pea and soy protein isolates?'],['The scope','A proposed attributional, cradle-to-gate LCA with a functional unit of 1 kg of protein ingredient at the factory gate.'],['The approach','The proposal sets out system boundaries, data needs and an OpenLCA/Ecoinvent modelling approach, including exploration of oat protein–polysaccharide intermediates.'],['Status','Research proposal. This portfolio does not present its proposed comparisons as completed results or claim that one ingredient is environmentally superior.']],links:[['Read the LCA proposal','1ZAV2OrZc9nrDq6wzpTswQgwm8SYD8p4w']]},
  lund:{kicker:'LUND MUNICIPALITY · COLLABORATIVE PROPOSAL · 2025',title:'Eat Local Lund',summary:'A strategic proposal to strengthen local food consumption and sustainability in Lund Municipality.',details:[['The question','How can a municipality build stronger relationships between local food production, retailers and residents?'],['The collaboration','A group proposal by Dinesha Rathnayake, Hasara Kumaragama and Goutham Nidhi, submitted to Lund Municipality in January 2025.'],['The approach','Local food-system strategy connecting public engagement, producer–retailer dialogue and sustainable consumption, aligned with Lund’s climate ambitions.'],['The output','A strategic proposal for a stronger local foodscape. It describes recommendations rather than verified implementation outcomes.']],links:[['Read Eat Local Lund','1tg1NJZT2zsd0ccx3VfrEU9DUkSBcz9al']]},
@@ -25,7 +153,7 @@ function openDialog(dialog,trigger){returnFocus=trigger;dialog.showModal();docum
 $$('[data-project]').forEach(button=>button.addEventListener('click',()=>{const p=projects[button.dataset.project];$('#dialog-kicker').textContent=p.kicker;$('#dialog-title').textContent=p.title;$('#dialog-summary').textContent=p.summary;const details=$('#dialog-details');details.replaceChildren();p.details.forEach(([heading,copy])=>{const section=document.createElement('section'),h=document.createElement('h3'),text=document.createElement('p');h.textContent=heading;text.textContent=copy;section.append(h,text);details.append(section);});const links=$('#dialog-links');links.replaceChildren();p.links.forEach(([label,id])=>{const a=document.createElement('a'),tag=document.createElement('span');a.href=drive(id);a.target='_blank';a.rel='noopener noreferrer';a.textContent=label;tag.textContent='Open report';a.append(tag);links.append(a);});openDialog(projectDialog,button);}));
 $$('dialog').forEach(dialog=>{dialog.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});dialog.addEventListener('close',()=>{document.body.classList.remove('dialog-open');returnFocus?.focus({preventScroll:true});});});
 $('#credits-open').addEventListener('click',e=>openDialog($('#credits-dialog'),e.currentTarget));
-$$('[data-filter]').forEach(button=>button.addEventListener('click',()=>{const f=button.dataset.filter;$$('[data-filter]').forEach(b=>{const active=b===button;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});let count=0;$$('[data-project]').forEach(card=>{card.hidden=f!=='all'&&card.dataset.category!==f;if(!card.hidden)count++;});$('#filter-status').textContent=`${count} ${count===1?'project':'projects'} shown.`;scheduleScroll();}));
+$$('[data-filter]').forEach(button=>button.addEventListener('click',()=>{const f=button.dataset.filter;$$('[data-filter]').forEach(b=>{const active=b===button;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});let count=0;$$('[data-project]').forEach(card=>{card.hidden=f!=='all'&&card.dataset.category!==f;if(!card.hidden)count++;});$('#coursework-heading').hidden=f!=='all'&&f!=='coursework';$('#filter-status').textContent=`${count} ${count===1?'project':'projects'} shown.`;scheduleScroll();}));
 $('#copy-email').addEventListener('click',async()=>{try{if(!navigator.clipboard)throw new Error('Clipboard unavailable');await navigator.clipboard.writeText('gouthamnidhi1998@gmail.com');$('#copy-status').textContent='Email copied';}catch{$('#copy-status').textContent='Please select and copy the email address above.';}setTimeout(()=>$('#copy-status').textContent='',5000);});
 $('#copyright-year').textContent=new Date().getFullYear();
 const perspective=$('#perspective');let lastChapter=-1;

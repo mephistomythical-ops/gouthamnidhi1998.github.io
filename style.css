@@ -7,3 +7,15 @@
 @media(max-width:700px){.hero-eyebrow{max-width:310px;line-height:1.6}.section-kicker{font-size:12px;letter-spacing:.05em}.section-kicker span:last-child{max-width:145px}.hero-foot span:last-child{max-width:155px}.hero-foot .scroll-track{display:none}.filters{gap:16px}.filters button{font-size:14px}.award-label{top:65px;left:24px;font-size:11px}.journey-row{grid-template-columns:80px 1fr}.year{font-size:12px}.reading-source{font-size:13px}.hero-description{font-size:16px}.chapter-nav button{font-size:13px}.motion-toggle{font-size:12px}.project-visual .visual-caption{font-size:11px}.hero-foot{font-size:10px}}
 
 @media(max-width:700px){.award-label,.project-visual .visual-caption,.hero-foot{font-size:12px}.project-visual .visual-caption{max-width:62%;line-height:1.6}.card-open{right:18px;font-size:12px}.hero-foot{align-items:flex-end}.round-link{bottom:105px}.hero-eyebrow{font-size:12px}.category{font-size:12px}.expertise-list span{font-size:13px}}
+
+/* Coursework extends the existing project cards and responsive grid. */
+.coursework-heading{grid-column:1/-1;border-top:1px solid var(--line);padding-top:45px;margin-top:20px}
+.coursework-heading h3{font-size:clamp(30px,3.5vw,54px);letter-spacing:-.04em;line-height:1.15;margin:16px 0}
+.coursework-heading p{color:var(--muted);font-size:15px}
+.coursework-art{background:#233a34;color:var(--ink)}
+.coursework-type{position:absolute;left:12%;right:8%;top:23%;font:400 clamp(28px,3.5vw,56px)/1.1 var(--display);letter-spacing:-.05em}
+.coursework-type em{color:var(--accent)}
+.coursework-billions,.coursework-terroir{background:#303c35}
+.coursework-midori{background:#163b3b}
+.coursework-tsuruoka{background:#30362e}
+@media(max-width:700px){.coursework-heading{padding-top:30px;margin-top:5px}.coursework-type{font-size:clamp(28px,8vw,50px)}}
