@@ -19,3 +19,8 @@
 .coursework-midori{background:#163b3b}
 .coursework-tsuruoka{background:#30362e}
 @media(max-width:700px){.coursework-heading{padding-top:30px;margin-top:5px}.coursework-type{font-size:clamp(28px,8vw,50px)}}
+
+/* Thumbnails stay inside the existing compact project rows. */
+.compact-card .compact-thumbnail{width:clamp(64px,7vw,100px);flex:none;aspect-ratio:1.24}
+.compact-thumbnail .compact-index{position:absolute;left:8px;bottom:5px;color:var(--ink);z-index:2;font-size:12px}
+.compact-card .compact-thumbnail+div{min-width:0}

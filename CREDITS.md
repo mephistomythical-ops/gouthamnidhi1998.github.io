@@ -22,6 +22,6 @@ https://tympanus.net/codrops/hub/
 
 No Codrops demo source or third-party JavaScript runtime is bundled. The metal material and motion are artistic approximations, not a physically validated fluid simulation.
 
-## Coursework imagery
+## Project thumbnails
 
-The Food Waste card uses the user-supplied “Lakeside Garden Harvest at Golden Hour” illustration. It is illustrative imagery, not a photograph of an implemented project. Other coursework cards use typographic artwork.
+All 12 project thumbnails were created and supplied by Goutham Nidhi. Web-optimized copies are saved as `assets/project-*.webp`. These are illustrative images, not documentary photographs of implemented projects. The stock assets credited above remain in the repository but are no longer used as project thumbnails.
